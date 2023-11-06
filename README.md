@@ -28,8 +28,8 @@ To learn and absorb new js concepts
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/aammeerraakhater/drag-and-drop
+- Live Site URL: https://aammeerraakhater.github.io/drag-and-drop/
 
 ## My process
 
